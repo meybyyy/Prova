@@ -4,7 +4,10 @@ body{
 }
 .imagemcentralizada{
     text-align: center;
+header {
+border-bottom: darkcyan;
 }
+border-bottom:solid;
 .imagem1{
     
 }
