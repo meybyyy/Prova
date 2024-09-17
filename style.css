@@ -1,13 +1,16 @@
 body{
-    background-color: #c8fff8;
-    color: mintcream;
+    background-color: #f89ebcad;
+    color: rgb(245, 255, 250);
+    margin: 0px;
 }
 .imagemcentralizada{
     text-align: center;
 header {
-border-bottom: darkcyan;
+border-bottom: rgb(219, 248, 248);
 }
-border-bottom:solid;
+padding: 20px;
+font-size: 30px;
+color: blanchedalmond;
 .imagem1{
     
 }
