@@ -9,13 +9,18 @@ body{
 header {
 border-bottom: rgb(219, 248, 248);
 }
-padding: 20px;
-font-size: 30px;
+margin-top: 5px;
+padding: 2px;
+font-size: 20px;
 color: blanchedalmond;
-.imagem1{
-    
+display: flex;
+justify-content: center;  
 }
-.lista{
+h1 {color: darkblue;
+    padding: 5%;
+}
+.unicornio {
+    font-style: italic;
     text-align: start;
     width: 45%;
 }
