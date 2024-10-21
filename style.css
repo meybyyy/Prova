@@ -4,23 +4,23 @@ body{
     color: rgb(245, 255, 250);
     margin: 0px;
 }
-.imagemcentralizada{
-    text-align: center;
-header {
-border-bottom: rgb(219, 248, 248);
-}
+   nav a { 
+
 margin-top: 5px;
 padding: 2px;
 font-size: 20px;
 color: blanchedalmond;
 display: flex;
 justify-content: center;  
-}
+ }
 h1 {color: darkblue;
-    padding: 5%;
+    padding-top: 5%;
 }
 .unicornio {
     font-style: italic;
-    text-align: start;
-    width: 45%;
+}   
+    width: 50%;
+}
+centro {
+    text-align: center;
 }
